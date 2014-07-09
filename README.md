@@ -17,7 +17,9 @@
 
 #how to get a project structure
 
+```
 git clone https://github.com/EdvinasMaciulis/string-calculator.git
+```
 
 #4 rules of simple design
 
