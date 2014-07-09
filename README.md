@@ -35,3 +35,7 @@ Red -> Green -> Refactor
 Then go back to red.
 
 Every time you make your test pass, do refactor your code.
+
+#Use of version control system
+Make a commit after each time your test pass.
+
